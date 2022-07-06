@@ -5,8 +5,8 @@ h1{
     font-size: 40px;
     margin-right: 40px;
 }
-.White-color{
-    color: ;
+h2{
+    font-size: 30px;
 }
 .flexible-container{
     display: flex;
@@ -28,4 +28,105 @@ p{
     color: white;
     font-weight: 700;
     border-radius: 5px;
+}
+.example-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 10px;
+    border-left: 7px solid rgb(120, 165, 184);
+}
+footer{
+    background-color: rgb(4, 4, 65);
+    text-align: center;
+    color: wheat;
+}
+.web-developer{
+    color: coral;
+}
+.container{
+    display: flex; 
+    text-align: center;
+    
+}
+.donation{
+    font-size: 35px;
+    text-align: center;
+}
+.amount{
+    width: 25%;
+    height: 100px;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    padding-top: 45px;
+    margin-left: 200px;
+}
+.amount-2{
+    width: 25%;
+    height: 100px;
+    padding-top: 45px;
+    margin-left: 100px;
+    background-color: rgb(228, 218, 218);
+    border-radius: 5px;
+    color: tomato;
+    border: 2px solid tomato;
+}
+.amount-3{
+    width: 25%;
+    height: 100px;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    padding-top: 45px;
+    margin-left: 200px;
+
+}
+.amount-4{
+    width: 25%;
+    height: 100px;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    padding-top: 45px;
+    margin-left: 200px;
+}
+.floods{
+    position: relative;
+    text-align: center;
+    color: rgba(32, 64, 170, 0.938);
+}
+.centered{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.middle{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: black;
+}
+.White-color{
+    color: rgb(0, 15, 7);
+}
+.other-amount{
+    color: gray;
+    font-size: 30px;
+    font-weight: 50px;
+    text-align: center;
+    padding-top: 45px;
+}
+.other-amount hr{
+    width: 50%;
+}
+.other-amount a{
+    background-color: rgb(209,55,8);
+    color: rgb(247, 251, 255);
+    border-radius: 5px;
+    margin-top: 60px;
+    font-size: 25px;
+    font-weight: bolder;
+    padding: 5px 10px;
 }
