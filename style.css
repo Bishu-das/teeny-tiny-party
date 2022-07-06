@@ -8,7 +8,7 @@ h1{
 .White-color{
     color: ;
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 80px;
 }
