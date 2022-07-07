@@ -126,7 +126,10 @@ footer{
     padding: 10px 40px;
     text-decoration:none;
     text-align: center;
-    margin : 0 auto;
+    margin : auto;
+}
+.other-amount{
+    text-align: center;
 }
     
 
